@@ -3,7 +3,7 @@ public class Student{
   }
   private String name;
   public String getname{
-
+    return this.name;
   }
   
 }
